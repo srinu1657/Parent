@@ -2,6 +2,6 @@ package org.parent.example.beans;
 
 public class A {
     public void display(){
-        System.out.println("srinu");
+        System.out.println("feature1");
     }
 }
