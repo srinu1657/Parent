@@ -5,7 +5,7 @@ import org.springframework.stereotype.Component;
 @Component
 public class C {
     {
-        System.out.println("C non static block");
+        System.out.println("C non static block");//1
     }
     static {
         System.out.println("C static block");

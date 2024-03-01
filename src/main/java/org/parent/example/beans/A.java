@@ -1,2 +1,4 @@
-package org.parent.example.beans;public class A {
+package org.parent.example.beans;
+
+public class A {
 }
