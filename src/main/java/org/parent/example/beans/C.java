@@ -7,6 +7,7 @@ public class C {
     public void display(){
         System.out.println("master1");
         System.out.println("master1");
+        System.out.println("master1");
     }
 
 }
